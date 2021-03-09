@@ -6,7 +6,7 @@
      b) Program to find the area of circle and rectangle.
      c) Program to print your name with your age.
 -->
-
+by
  #include<stdio.h> 
         int main()  
       {      
